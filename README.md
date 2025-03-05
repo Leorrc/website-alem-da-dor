@@ -1,12 +1,12 @@
 <div align="center">
 
-<img alt="Imagem preview" src="https://raw.githubusercontent.com/Leorrc/website-alem-da-dor/master/images/preview-1.webp">
+<img alt="Imagem preview 1" src="https://raw.githubusercontent.com/Leorrc/website-alem-da-dor/master/images/preview-1.webp">
 
-<img alt="Imagem preview" src="https://raw.githubusercontent.com/Leorrc/website-alem-da-dor/master/images/preview-2.webp">
+<img alt="Imagem preview 2" src="https://raw.githubusercontent.com/Leorrc/website-alem-da-dor/master/images/preview-2.webp">
 
-<img alt="Imagem preview" src="https://raw.githubusercontent.com/Leorrc/website-alem-da-dor/master/images/preview-3.webp">
+<img alt="Imagem preview 3" src="https://raw.githubusercontent.com/Leorrc/website-alem-da-dor/master/images/preview-3.webp">
 
-<img alt="Imagem preview" src="https://raw.githubusercontent.com/Leorrc/website-alem-da-dor/master/images/preview-4.webp">
+<img alt="Imagem preview 4" src="https://raw.githubusercontent.com/Leorrc/website-alem-da-dor/master/images/preview-4.webp">
 
 </div>
 
