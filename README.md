@@ -1,13 +1,10 @@
 <div align="center">
 
 <img alt="Imagem preview" src="https://raw.githubusercontent.com/Leorrc/website-alem-da-dor/master/images/preview-1.webp">
-</div>
 
 <img alt="Imagem preview" src="https://raw.githubusercontent.com/Leorrc/website-alem-da-dor/master/images/preview-2.webp">
-</div>
 
 <img alt="Imagem preview" src="https://raw.githubusercontent.com/Leorrc/website-alem-da-dor/master/images/preview-3.webp">
-</div>
 
 <img alt="Imagem preview" src="https://raw.githubusercontent.com/Leorrc/website-alem-da-dor/master/images/preview-4.webp">
 
