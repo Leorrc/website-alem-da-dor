@@ -10,6 +10,7 @@
 </div>
 
 <img alt="Imagem preview" src="https://raw.githubusercontent.com/Leorrc/website-alem-da-dor/master/images/preview-4.webp">
+
 </div>
 
 <div align="center"><strong>Projeto feito com Next.js 15</strong></div>
